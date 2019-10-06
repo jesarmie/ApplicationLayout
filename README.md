@@ -1,2 +1,0 @@
-# ApplicationLayout
-Created with CodeSandbox
